@@ -1,5 +1,5 @@
 # Pytorch_Tutorial
 
-Pytorch tutorial from scratch.
+* Pytorch tutorial from scratch.
 
 
